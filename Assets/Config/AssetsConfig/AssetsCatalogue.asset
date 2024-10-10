@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1cdf6e62c43019377d480b067c049, type: 3}
+  m_Name: AssetsCatalogue
+  m_EditorClassIdentifier: 
+  gemAssetConfigs:
+  - Color: 1
+    Prefab: {fileID: 7222432129381563141, guid: 1323ddb94d5d85c449d463af09644297, type: 3}
+    DestroyEffectSprite: {fileID: 21300008, guid: 51e2a399831333b478ec978ee598bf0e, type: 3}
+  - Color: 0
+    Prefab: {fileID: 808129544441241226, guid: 50e26d12f1625e14cb80793a4e6de5e1, type: 3}
+    DestroyEffectSprite: {fileID: 21300002, guid: 51e2a399831333b478ec978ee598bf0e, type: 3}
+  - Color: 2
+    Prefab: {fileID: 9179433134402039779, guid: 9104c6aa12952d64b968a595282becfd, type: 3}
+    DestroyEffectSprite: {fileID: 21300012, guid: 51e2a399831333b478ec978ee598bf0e, type: 3}
+  - Color: 3
+    Prefab: {fileID: 6736719330820018998, guid: 57fecea72a5ea2047a616c0fbcf088c9, type: 3}
+    DestroyEffectSprite: {fileID: 21300004, guid: 51e2a399831333b478ec978ee598bf0e, type: 3}
+  - Color: 4
+    Prefab: {fileID: 4446450057697978049, guid: 2de21444d54b6084c9df5ba6b86ef9c0, type: 3}
+    DestroyEffectSprite: {fileID: 21300016, guid: 51e2a399831333b478ec978ee598bf0e, type: 3}
